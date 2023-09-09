@@ -1,7 +1,7 @@
-# Rock-scissor-paper
+# 🚀 Rock-scissor-paper
 The project [Rock-scissor-paper](https://bogdanblare.github.io/Rock-scissor-paper/) is a web-based game called "Rock, Scissors, Paper." It is a classic game where players choose between rock, scissors, or paper, and the outcome is determined by specific rules.
 
-The main features of this project include:
+# ✨ Features
 
 1. Game Interface: The project provides a user interface where players can interact with the game. It likely includes buttons or options for the player to select their choice (rock, scissors, or paper) and a display area to show the game result.
 
@@ -15,6 +15,6 @@ The main features of this project include:
 
 Overall, this project aims to recreate the classic "Rock, Scissors, Paper" game in a web-based format, providing an interactive and fun experience for players. Players can choose their moves, compete against the computer, and enjoy the outcome of each round based on the game's rules.
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Rock-scissor-paper/main/Screenshot.png)
